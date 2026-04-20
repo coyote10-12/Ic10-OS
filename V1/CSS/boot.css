@@ -1,1 +1,22 @@
+body {
+    background-color: black;
+    color: #00ff00;
+    font-family: "Courier New", monospace;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
 
+#boot-container {
+    margin-top: 15%;
+}
+
+#logo {
+    width: 180px;
+    margin-bottom: 20px;
+}
+
+#boot-text p {
+    margin: 6px 0;
+    font-size: 20px;
+}
