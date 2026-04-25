@@ -1,2 +1,2 @@
-# Ic10-AI
-This is an AI for my Ic10-OS computer's.
+# Ic10-OS
+This is a computer version tester.
